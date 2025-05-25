@@ -38,10 +38,7 @@ claude = anthropic.Anthropic()
 
 google.generativeai.configure()
 
-system_message = "You are a helpful assistant"
-
-
-
+system_message = "You are a helpful assistant that helps custormers, investors and recruits do their due diligence on any company to know if it is a good fit for them to work with or invest"
 
 # Runs only on GPT model
 
