@@ -2,7 +2,7 @@
 
 I created an AI model that supercharge due diligence for customers, investors or recruits by analyzing the contents of any company's website landing page and creates a short brochure about the company.
 
-The first frontier model I designed is a helpful assistant powered by the OpenAI  gpt-4o-mini. With interactive textbox to receive user input message and a clear and submit button to erase or let her get to work. Thanks @gradio. I tested by asking "How can I be rich?" and she delivered. 
+The first frontier model I designed is a helpful assistant powered by the OpenAI  gpt-4o-mini. With interactive textbox to receive user input message and a clear and submit button to erase or let her get to work. 
 
 I redesigned the frontier model but powered by Anthropic claude-3-haiku-2022… model.
 
